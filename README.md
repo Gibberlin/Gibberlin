@@ -1,14 +1,4 @@
-## Hi there 👋
-
-<!--
-**Gibberlin/Gibberlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# 💫 About Me:
+# 💫 About Me:
 ......👋 hEello I am Yashin......<br>
 
 
@@ -26,8 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Gibberlin&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
